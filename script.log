@@ -1,0 +1,1426 @@
+2025-03-22 14:38:48.338	INFO				---------- START
+2025-03-22 14:38:48.378	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:38:58.376	INFO				---------- START
+2025-03-22 14:38:58.432	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:54:09.937	INFO				---------- START
+2025-03-22 14:54:09.980	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:54:09.987	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:54:10.057	INFO				Got 0 playlists
+2025-03-22 14:54:10.063	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:54:10.070	INFO				Found 0 of 2 to sync
+2025-03-22 14:54:52.824	INFO				---------- START
+2025-03-22 14:54:52.868	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:54:52.874	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:54:52.951	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 14:54:52.960	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 14:54:52.965	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 14:54:52.974	INFO				Got 0 playlists
+2025-03-22 14:54:52.978	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:54:52.984	INFO				Found 0 of 2 to sync
+2025-03-22 14:55:37.722	INFO				---------- START
+2025-03-22 14:55:37.766	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:55:37.774	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:55:37.851	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 14:55:37.862	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 14:55:37.867	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 14:55:37.877	INFO				Got 0 playlists
+2025-03-22 14:55:37.883	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:55:37.888	INFO				Found 0 of 2 to sync
+2025-03-22 14:56:12.282	INFO				---------- START
+2025-03-22 14:56:12.326	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:56:12.333	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:56:12.352	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 14:56:12.361	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 14:56:12.367	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 14:56:12.425	INFO				Got 0 playlists
+2025-03-22 14:56:12.431	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:56:12.437	INFO				Found 0 of 2 to sync
+2025-03-22 14:58:58.475	INFO				---------- START
+2025-03-22 14:58:58.519	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:58:58.526	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:58:58.546	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 14:58:58.555	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 14:58:58.560	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 14:58:58.619	INFO				Got 0 playlists
+2025-03-22 14:58:58.626	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:58:58.633	INFO				Found 0 of 2 to sync
+2025-03-22 14:59:40.138	INFO				---------- START
+2025-03-22 14:59:40.181	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 14:59:40.188	INFO				Getting all playlists from foobar2000...
+2025-03-22 14:59:40.206	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 14:59:40.216	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 14:59:40.222	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 14:59:40.238	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 14:59:40.454	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 14:59:40.461	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 14:59:40.467	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 14:59:40.471	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 14:59:40.475	DEBUG	foobar2000	App	getPlaylists	Tracks read: 23
+2025-03-22 14:59:40.481	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 14:59:40.488	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 14:59:40.493	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 14:59:40.500	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 14:59:40.506	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 14:59:40.517	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 14:59:40.523	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 14:59:40.531	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 14:59:40.538	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 14:59:40.544	DEBUG	foobar2000	App	getPlaylists	Tracks read: 110
+2025-03-22 14:59:40.550	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 14:59:40.564	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 14:59:40.570	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 14:59:40.575	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 14:59:40.579	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 14:59:40.585	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 14:59:40.590	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 14:59:40.594	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 14:59:40.599	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 14:59:40.605	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 14:59:40.609	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 14:59:40.614	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 14:59:40.619	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 14:59:40.684	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 14:59:40.691	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 14:59:40.696	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 14:59:40.701	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 14:59:40.717	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 14:59:40.723	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 14:59:41.164	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 14:59:41.174	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 14:59:41.179	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 14:59:41.184	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 14:59:41.190	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 14:59:41.198	INFO				Got 20 playlists
+2025-03-22 14:59:41.205	INFO				Filtering for Playlists to actually sync...
+2025-03-22 14:59:41.215	INFO				Found 2 of 2 to sync
+2025-03-22 15:01:30.067	INFO				---------- START
+2025-03-22 15:01:30.109	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:01:30.116	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:01:30.134	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:01:30.144	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:01:30.150	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:01:30.166	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:01:30.385	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:01:30.393	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:01:30.399	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:01:30.404	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:01:30.408	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:01:30.413	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:01:30.420	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:01:30.425	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:01:30.433	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:01:30.437	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:01:30.447	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:01:30.453	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:01:30.461	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:01:30.466	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:01:30.473	DEBUG	foobar2000	App	getPlaylists	Tracks read: 110
+2025-03-22 15:01:30.478	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:01:30.494	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:01:30.500	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:01:30.505	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:01:30.509	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:01:30.514	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:01:30.518	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:01:30.522	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:01:30.527	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:01:30.533	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:01:30.538	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:01:30.542	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:01:30.548	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:01:30.612	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:01:30.619	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:01:30.625	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:01:30.630	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:01:30.647	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:01:30.654	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:01:31.094	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:01:31.105	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:01:31.110	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:01:31.115	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:01:31.120	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:01:31.126	INFO				Got 20 playlists
+2025-03-22 15:01:31.132	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:01:31.140	WARN				Found only 2 of 3 to sync
+2025-03-22 15:06:26.369	INFO				---------- START
+2025-03-22 15:06:26.414	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:06:26.423	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:06:26.440	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:06:26.451	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:06:26.458	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:06:26.474	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:06:26.691	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:06:26.698	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:06:26.703	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:06:26.708	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:06:26.713	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:06:26.718	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:06:26.725	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:06:26.730	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:06:26.741	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:06:26.747	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:06:26.756	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:06:26.761	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:06:26.771	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:06:26.777	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:06:26.784	DEBUG	foobar2000	App	getPlaylists	Tracks read: 112
+2025-03-22 15:06:26.789	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:06:26.804	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:06:26.811	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:06:26.817	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:06:26.822	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:06:26.827	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:06:26.831	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:06:26.837	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:06:26.841	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:06:26.848	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:06:26.855	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:06:26.859	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:06:26.865	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:06:26.935	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:06:26.943	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:06:26.955	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:06:26.962	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:06:26.976	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:06:26.982	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:06:27.415	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:06:27.425	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:06:27.429	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:06:27.433	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:06:27.438	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:06:27.443	INFO				Got 20 playlists
+2025-03-22 15:06:27.449	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:06:27.456	WARN				Found only 0 of 3 Playlists to sync
+2025-03-22 15:08:36.049	INFO				---------- START
+2025-03-22 15:08:36.093	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:08:36.101	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:08:36.118	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:08:36.129	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:08:36.136	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:08:36.152	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:08:36.358	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:08:36.365	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:08:36.370	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:36.374	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:08:36.378	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:36.382	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:08:36.390	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:08:36.396	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:08:36.406	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:08:36.411	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:08:36.420	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:08:36.424	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:08:36.434	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:08:36.438	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:08:36.445	DEBUG	foobar2000	App	getPlaylists	Tracks read: 112
+2025-03-22 15:08:36.451	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:08:36.465	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:08:36.472	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:08:36.477	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:08:36.482	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:08:36.486	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:36.490	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:08:36.496	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:36.500	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:08:36.506	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:08:36.510	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:08:36.515	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:36.520	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:08:36.580	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:08:36.587	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:08:36.598	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:08:36.604	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:08:36.616	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:08:36.622	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:08:37.084	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:08:37.095	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:08:37.100	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:08:37.103	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:08:37.109	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:08:37.116	INFO				Got 20 playlists
+2025-03-22 15:08:37.121	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:08:37.128	WARN				Found only 0 of 3 Playlists to sync
+2025-03-22 15:08:54.830	INFO				---------- START
+2025-03-22 15:08:54.873	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:08:54.881	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:08:54.899	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:08:54.908	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:08:54.915	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:08:54.931	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:08:55.129	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:08:55.139	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:08:55.144	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:55.148	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:08:55.152	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:55.157	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:08:55.165	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:08:55.169	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:08:55.178	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:08:55.184	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:08:55.193	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:08:55.199	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:08:55.207	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:08:55.212	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:08:55.219	DEBUG	foobar2000	App	getPlaylists	Tracks read: 112
+2025-03-22 15:08:55.223	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:08:55.238	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:08:55.244	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:08:55.250	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:08:55.254	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:08:55.258	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:55.264	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:08:55.268	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:55.272	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:08:55.279	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:08:55.284	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:08:55.288	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:08:55.293	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:08:55.359	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:08:55.366	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:08:55.378	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:08:55.385	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:08:55.397	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:08:55.403	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:08:55.814	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:08:55.821	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:08:55.826	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:08:55.830	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:08:55.837	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:08:55.845	INFO				Got 20 playlists
+2025-03-22 15:08:55.854	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:08:55.866	WARN				Found only 2 of 3 Playlists to sync
+2025-03-22 15:12:02.052	INFO				---------- START
+2025-03-22 15:12:02.100	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:12:02.109	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:12:02.128	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:12:02.137	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:12:02.144	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:12:02.160	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:12:02.376	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:12:02.384	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:12:02.389	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:12:02.394	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:12:02.399	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:12:02.404	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:12:02.412	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:12:02.416	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:12:02.425	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:12:02.432	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:12:02.441	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:12:02.446	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:12:02.454	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:12:02.460	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:12:02.467	DEBUG	foobar2000	App	getPlaylists	Tracks read: 113
+2025-03-22 15:12:02.472	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:12:02.486	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:12:02.492	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:12:02.497	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:12:02.501	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:12:02.507	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:12:02.511	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:12:02.515	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:12:02.520	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:12:02.527	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:12:02.532	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:12:02.537	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:12:02.542	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:12:02.606	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:12:02.613	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:12:02.623	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:12:02.630	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:12:02.642	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:12:02.648	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:12:03.094	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:12:03.104	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:12:03.110	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:12:03.115	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:12:03.120	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:12:03.125	INFO				Got 0 playlists
+2025-03-22 15:12:03.132	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:12:03.141	WARN				Found only 2 of 3 Playlists to sync
+2025-03-22 15:13:02.397	INFO				---------- START
+2025-03-22 15:13:02.443	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:13:02.451	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:13:02.471	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:13:02.481	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:13:02.487	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:13:02.505	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:13:02.719	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:13:02.726	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:13:02.732	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:13:02.736	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:13:02.741	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:13:02.745	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:13:02.753	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:13:02.758	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:13:02.766	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:13:02.774	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:13:02.782	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:13:02.786	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:13:02.795	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:13:02.799	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:13:02.805	DEBUG	foobar2000	App	getPlaylists	Tracks read: 114
+2025-03-22 15:13:02.810	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:13:02.825	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:13:02.831	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:13:02.836	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:13:02.842	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:13:02.847	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:13:02.851	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:13:02.856	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:13:02.860	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:13:02.866	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:13:02.871	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:13:02.876	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:13:02.880	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:13:02.940	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:13:02.947	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:13:02.958	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:13:02.964	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:13:02.976	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:13:02.983	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:13:03.432	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:13:03.442	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:13:03.447	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:13:03.451	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:13:03.456	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:13:03.462	INFO				Got 0 playlists
+2025-03-22 15:13:03.469	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:13:03.478	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:16:08.561	INFO				---------- START
+2025-03-22 15:16:08.605	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:16:08.612	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:16:08.631	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:16:08.640	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:16:08.645	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:16:08.661	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:16:08.860	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:16:08.867	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:16:08.872	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:16:08.876	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:16:08.882	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:16:08.886	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:16:08.893	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:16:08.897	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:16:08.904	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:16:08.907	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:16:08.916	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:16:08.922	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:16:08.930	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:16:08.935	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:16:08.942	DEBUG	foobar2000	App	getPlaylists	Tracks read: 115
+2025-03-22 15:16:08.945	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:16:08.959	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:16:08.965	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:16:08.971	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:16:08.976	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:16:08.980	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:16:08.985	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:16:08.990	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:16:08.994	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:16:09.000	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:16:09.005	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:16:09.010	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:16:09.015	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:16:09.080	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:16:09.088	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:16:09.097	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:16:09.104	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:16:09.119	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:16:09.125	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:16:09.538	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:16:09.546	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:16:09.551	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:16:09.555	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:16:09.559	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:16:09.564	INFO				Got 20 playlists
+2025-03-22 15:16:09.571	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:16:09.578	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:18:57.815	INFO				---------- START
+2025-03-22 15:18:57.860	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:18:57.868	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:18:57.885	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:18:57.895	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:18:57.901	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:18:57.918	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:18:58.121	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:18:58.129	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:18:58.134	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:18:58.139	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:18:58.144	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:18:58.149	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:18:58.156	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:18:58.161	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:18:58.170	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:18:58.175	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:18:58.185	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:18:58.191	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:18:58.200	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:18:58.205	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:18:58.211	DEBUG	foobar2000	App	getPlaylists	Tracks read: 116
+2025-03-22 15:18:58.218	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:18:58.232	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:18:58.238	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:18:58.243	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:18:58.249	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:18:58.254	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:18:58.258	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:18:58.263	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:18:58.268	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:18:58.274	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:18:58.280	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:18:58.284	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:18:58.289	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:18:58.345	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:18:58.352	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:18:58.357	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:18:58.362	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:18:58.377	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:18:58.383	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:18:58.805	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:18:58.812	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:18:58.818	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:18:58.822	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:18:58.827	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:18:58.833	INFO				Got 20 playlists
+2025-03-22 15:18:58.838	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:18:58.846	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:18:58.852	INFO				Combining playlists...
+2025-03-22 15:18:58.862	INFO				Got 26 combined Tracks
+2025-03-22 15:20:59.632	INFO				---------- START
+2025-03-22 15:20:59.677	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:20:59.685	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:20:59.703	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:20:59.712	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:20:59.719	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:20:59.736	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:20:59.945	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:20:59.954	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:20:59.959	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:20:59.963	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:20:59.968	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:20:59.972	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:20:59.980	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:20:59.985	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:20:59.992	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:20:59.996	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:21:00.007	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:21:00.012	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:21:00.021	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:21:00.027	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:21:00.035	DEBUG	foobar2000	App	getPlaylists	Tracks read: 117
+2025-03-22 15:21:00.041	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:21:00.054	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:21:00.060	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:21:00.066	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:21:00.072	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:21:00.076	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:21:00.080	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:21:00.086	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:21:00.090	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:21:00.096	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:21:00.100	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:21:00.105	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:21:00.110	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:21:00.167	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:21:00.174	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:21:00.180	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:21:00.186	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:21:00.201	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:21:00.207	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:21:00.640	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:21:00.647	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:21:00.652	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:21:00.657	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:21:00.662	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:21:00.667	INFO				Got 20 playlists
+2025-03-22 15:21:00.674	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:21:00.682	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:21:00.689	INFO				Combining playlists...
+2025-03-22 15:21:00.699	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 15:54:44.374	INFO				---------- START
+2025-03-22 15:54:44.422	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:54:44.429	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:54:44.447	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:54:44.456	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:54:44.463	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:54:44.479	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:54:44.676	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:54:44.685	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:54:44.691	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:54:44.697	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:54:44.702	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:54:44.706	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:54:44.714	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:54:44.719	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:54:44.729	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:54:44.735	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:54:44.743	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:54:44.748	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:54:44.756	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:54:44.761	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:54:44.769	DEBUG	foobar2000	App	getPlaylists	Tracks read: 128
+2025-03-22 15:54:44.773	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:54:44.788	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:54:44.794	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:54:44.799	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:54:44.803	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:54:44.808	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:54:44.812	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:54:44.816	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:54:44.820	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:54:44.829	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:54:44.834	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:54:44.839	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:54:44.845	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:54:44.907	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:54:44.914	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:54:44.919	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:54:44.928	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:54:44.939	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:54:44.946	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:54:45.365	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:54:45.372	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:54:45.377	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:54:45.382	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:54:45.387	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:54:45.394	INFO				Got 20 playlists
+2025-03-22 15:54:45.400	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:54:45.408	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:54:45.415	INFO				Combining playlists...
+2025-03-22 15:54:45.424	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 15:56:45.033	INFO				---------- START
+2025-03-22 15:56:45.078	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:56:45.085	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:56:45.102	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:56:45.112	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:56:45.119	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:56:45.134	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:56:45.362	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:56:45.371	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:56:45.376	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:56:45.381	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:56:45.386	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:56:45.391	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:56:45.399	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:56:45.406	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:56:45.416	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:56:45.422	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:56:45.431	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:56:45.437	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:56:45.447	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:56:45.453	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:56:45.461	DEBUG	foobar2000	App	getPlaylists	Tracks read: 128
+2025-03-22 15:56:45.467	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:56:45.483	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:56:45.490	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:56:45.498	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:56:45.503	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:56:45.508	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:56:45.514	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:56:45.519	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:56:45.523	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:56:45.532	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:56:45.538	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:56:45.545	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:56:45.551	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:56:45.611	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:56:45.618	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:56:45.625	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:56:45.630	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:56:45.644	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:56:45.650	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:56:46.146	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:56:46.157	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:56:46.162	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:56:46.168	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:56:46.173	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:56:46.179	INFO				Got 20 playlists
+2025-03-22 15:56:46.186	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:56:46.194	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:56:46.200	INFO				Combining playlists...
+2025-03-22 15:56:46.209	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 15:58:25.966	INFO				---------- START
+2025-03-22 15:58:26.008	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 15:58:26.015	INFO				Getting all playlists from foobar2000...
+2025-03-22 15:58:26.032	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 15:58:26.041	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 15:58:26.047	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 15:58:26.064	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 15:58:26.292	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 15:58:26.301	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 15:58:26.307	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:58:26.312	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 15:58:26.318	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:58:26.323	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 15:58:26.331	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:58:26.338	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 15:58:26.349	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 15:58:26.355	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 15:58:26.364	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:58:26.369	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 15:58:26.377	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 15:58:26.383	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 15:58:26.391	DEBUG	foobar2000	App	getPlaylists	Tracks read: 129
+2025-03-22 15:58:26.396	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 15:58:26.412	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 15:58:26.419	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 15:58:26.425	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 15:58:26.430	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 15:58:26.436	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:58:26.440	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 15:58:26.445	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:58:26.450	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 15:58:26.459	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 15:58:26.465	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 15:58:26.472	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 15:58:26.477	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 15:58:26.534	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 15:58:26.541	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 15:58:26.547	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 15:58:26.552	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 15:58:26.565	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 15:58:26.571	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 15:58:27.058	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 15:58:27.065	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 15:58:27.071	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 15:58:27.075	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 15:58:27.080	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 15:58:27.086	INFO				Got 20 playlists
+2025-03-22 15:58:27.091	INFO				Filtering for Playlists to actually sync...
+2025-03-22 15:58:27.099	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 15:58:27.105	INFO				Combining playlists...
+2025-03-22 15:58:27.114	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:00:01.309	INFO				---------- START
+2025-03-22 16:00:01.353	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:00:01.360	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:00:01.378	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:00:01.387	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:00:01.393	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:00:01.408	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:00:01.642	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 16:00:01.650	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:00:01.656	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:01.662	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:00:01.667	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:01.671	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:00:01.680	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:00:01.685	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:00:01.695	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:00:01.701	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:00:01.709	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:00:01.714	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:00:01.723	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:00:01.728	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:00:01.737	DEBUG	foobar2000	App	getPlaylists	Tracks read: 129
+2025-03-22 16:00:01.742	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:00:01.758	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:00:01.765	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:00:01.771	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:00:01.775	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:00:01.780	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:01.785	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:00:01.789	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:01.793	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:00:01.801	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:00:01.808	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:00:01.815	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:01.821	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:00:01.877	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:00:01.885	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:00:01.891	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:00:01.896	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:00:01.910	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:00:01.916	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:00:02.411	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:00:02.422	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:00:02.427	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:00:02.432	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:00:02.436	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:00:02.441	INFO				Got 20 playlists
+2025-03-22 16:00:02.446	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:00:02.455	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:00:02.460	INFO				Combining playlists...
+2025-03-22 16:00:02.470	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:00:44.400	INFO				---------- START
+2025-03-22 16:00:44.445	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:00:44.454	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:00:44.471	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:00:44.480	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:00:44.487	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:00:44.503	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:00:44.735	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 16:00:44.743	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:00:44.749	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:44.754	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:00:44.758	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:44.762	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:00:44.770	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:00:44.775	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:00:44.785	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:00:44.792	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:00:44.801	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:00:44.807	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:00:44.816	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:00:44.822	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:00:44.830	DEBUG	foobar2000	App	getPlaylists	Tracks read: 120
+2025-03-22 16:00:44.834	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:00:44.851	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:00:44.858	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:00:44.864	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:00:44.869	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:00:44.874	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:44.879	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:00:44.883	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:44.890	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:00:44.900	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:00:44.906	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:00:44.912	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:00:44.917	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:00:44.978	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:00:44.986	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:00:44.992	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:00:44.997	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:00:45.011	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:00:45.016	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:00:45.502	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:00:45.510	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:00:45.516	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:00:45.522	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:00:45.527	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:00:45.533	INFO				Got 20 playlists
+2025-03-22 16:00:45.540	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:00:45.548	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:00:45.554	INFO				Combining playlists...
+2025-03-22 16:00:45.563	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:01:47.075	INFO				---------- START
+2025-03-22 16:01:47.118	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:01:47.126	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:01:47.143	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:01:47.153	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:01:47.160	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:01:47.177	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:01:47.410	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 16:01:47.418	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:01:47.424	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:01:47.430	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:01:47.435	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:01:47.441	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:01:47.449	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:01:47.454	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:01:47.465	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:01:47.471	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:01:47.480	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:01:47.485	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:01:47.494	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:01:47.499	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:01:47.507	DEBUG	foobar2000	App	getPlaylists	Tracks read: 120
+2025-03-22 16:01:47.513	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:01:47.529	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:01:47.536	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:01:47.545	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:01:47.550	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:01:47.555	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:01:47.561	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:01:47.566	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:01:47.570	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:01:47.580	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:01:47.585	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:01:47.592	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:01:47.598	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:01:47.659	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:01:47.667	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:01:47.673	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:01:47.677	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:01:47.691	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:01:47.697	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:01:48.200	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:01:48.207	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:01:48.212	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:01:48.217	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:01:48.223	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:01:48.228	INFO				Got 20 playlists
+2025-03-22 16:01:48.233	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:01:48.241	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:01:48.247	INFO				Combining playlists...
+2025-03-22 16:01:48.256	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:04:08.313	INFO				---------- START
+2025-03-22 16:04:08.356	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:04:08.363	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:04:08.380	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:04:08.389	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:04:08.396	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:04:08.412	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:04:08.638	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 16:04:08.647	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:04:08.652	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:04:08.658	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:04:08.664	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:04:08.668	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:04:08.676	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:04:08.682	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:04:08.692	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:04:08.698	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:04:08.707	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:04:08.712	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:04:08.722	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:04:08.727	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:04:08.735	DEBUG	foobar2000	App	getPlaylists	Tracks read: 121
+2025-03-22 16:04:08.739	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:04:08.755	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:04:08.762	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:04:08.768	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:04:08.772	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:04:08.776	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:04:08.782	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:04:08.787	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:04:08.792	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:04:08.801	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:04:08.807	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:04:08.813	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:04:08.819	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:04:08.877	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:04:08.884	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:04:08.889	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:04:08.894	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:04:08.907	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:04:08.913	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:04:09.396	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:04:09.407	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:04:09.412	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:04:09.416	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:04:09.421	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:04:09.427	INFO				Got 20 playlists
+2025-03-22 16:04:09.432	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:04:09.439	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:04:09.444	INFO				Combining playlists...
+2025-03-22 16:04:09.454	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:06:41.229	INFO				---------- START
+2025-03-22 16:06:41.275	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:06:41.282	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:06:41.299	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:06:41.308	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:06:41.315	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:06:41.331	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:06:41.561	DEBUG	foobar2000	App	getPlaylists	Tracks read: 8291
+2025-03-22 16:06:41.569	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:06:41.576	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:06:41.581	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:06:41.586	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:06:41.590	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:06:41.600	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:06:41.605	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:06:41.616	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:06:41.623	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:06:41.632	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:06:41.638	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:06:41.647	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:06:41.653	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:06:41.661	DEBUG	foobar2000	App	getPlaylists	Tracks read: 122
+2025-03-22 16:06:41.667	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:06:41.683	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:06:41.690	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:06:41.697	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:06:41.702	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:06:41.706	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:06:41.712	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:06:41.717	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:06:41.722	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:06:41.731	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:06:41.737	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:06:41.744	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:06:41.750	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:06:41.809	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:06:41.816	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:06:41.822	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:06:41.826	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:06:41.839	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:06:41.846	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:06:42.354	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:06:42.361	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:06:42.368	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:06:42.372	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:06:42.377	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:06:42.384	INFO				Got 20 playlists
+2025-03-22 16:06:42.389	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:06:42.396	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:06:42.402	INFO				Combining playlists...
+2025-03-22 16:06:42.411	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:13:55.278	INFO				---------- START
+2025-03-22 16:13:55.322	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:13:55.329	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:13:55.345	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:13:55.355	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:13:55.361	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:13:55.376	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:13:56.418	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 16:13:56.430	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:13:56.436	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:13:56.442	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:13:56.448	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:13:56.453	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:13:56.461	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:13:56.466	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:13:56.477	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:13:56.483	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:13:56.494	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:13:56.500	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:13:56.511	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:13:56.517	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:13:56.526	DEBUG	foobar2000	App	getPlaylists	Tracks read: 124
+2025-03-22 16:13:56.531	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:13:56.551	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:13:56.557	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:13:56.563	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:13:56.567	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:13:56.572	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:13:56.576	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:13:56.580	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:13:56.584	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:13:56.592	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:13:56.596	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:13:56.601	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:13:56.606	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:13:56.673	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:13:56.680	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:13:56.686	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:13:56.691	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:13:56.709	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:13:56.716	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:13:57.210	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:13:57.217	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:13:57.222	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:13:57.227	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:13:57.232	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:13:57.239	INFO				Got 20 playlists
+2025-03-22 16:13:57.243	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:13:57.251	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:13:57.257	INFO				Combining playlists...
+2025-03-22 16:13:57.267	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:14:47.566	INFO				---------- START
+2025-03-22 16:14:47.612	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:14:47.619	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:14:47.635	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:14:47.644	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:14:47.651	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:14:47.667	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:14:48.785	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 16:14:48.797	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:14:48.802	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:14:48.807	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:14:48.811	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:14:48.816	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:14:48.824	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:14:48.829	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:14:48.837	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:14:48.842	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:14:48.851	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:14:48.857	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:14:48.866	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:14:48.872	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:14:48.879	DEBUG	foobar2000	App	getPlaylists	Tracks read: 124
+2025-03-22 16:14:48.885	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:14:48.905	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:14:48.913	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:14:48.919	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:14:48.926	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:14:48.934	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:14:48.939	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:14:48.943	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:14:48.948	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:14:48.955	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:14:48.959	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:14:48.964	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:14:48.969	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:14:49.030	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:14:49.037	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:14:49.043	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:14:49.049	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:14:49.066	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:14:49.073	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:14:49.540	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:14:49.547	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:14:49.552	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:14:49.556	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:14:49.561	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:14:49.567	INFO				Got 20 playlists
+2025-03-22 16:14:49.571	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:14:49.578	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:14:49.584	INFO				Combining playlists...
+2025-03-22 16:14:49.593	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:15:51.998	INFO				---------- START
+2025-03-22 16:15:52.043	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:15:52.051	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:15:52.071	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:15:52.081	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:15:52.088	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:15:52.104	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:15:53.156	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 16:15:53.169	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:15:53.175	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:15:53.180	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:15:53.186	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:15:53.191	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:15:53.201	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:15:53.207	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:15:53.216	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:15:53.221	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:15:53.231	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:15:53.237	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:15:53.246	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:15:53.252	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:15:53.261	DEBUG	foobar2000	App	getPlaylists	Tracks read: 125
+2025-03-22 16:15:53.266	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:15:53.289	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:15:53.296	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:15:53.302	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:15:53.307	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:15:53.312	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:15:53.316	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:15:53.322	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:15:53.326	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:15:53.333	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:15:53.338	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:15:53.344	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:15:53.349	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:15:53.416	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:15:53.424	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:15:53.430	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:15:53.435	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:15:53.453	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:15:53.460	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:15:53.955	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:15:53.963	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:15:53.968	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:15:53.971	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:15:53.976	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:15:53.982	INFO				Got 20 playlists
+2025-03-22 16:15:53.988	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:15:53.996	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:15:54.001	INFO				Combining playlists...
+2025-03-22 16:15:54.012	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:17:00.968	INFO				---------- START
+2025-03-22 16:17:01.011	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:17:01.018	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:17:01.034	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:17:01.044	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:17:01.052	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:17:01.068	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:17:02.122	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 16:17:02.133	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:17:02.139	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:17:02.145	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:17:02.150	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:17:02.154	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:17:02.162	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:17:02.168	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:17:02.176	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:17:02.182	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:17:02.191	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:17:02.197	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:17:02.206	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:17:02.213	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:17:02.221	DEBUG	foobar2000	App	getPlaylists	Tracks read: 125
+2025-03-22 16:17:02.226	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:17:02.247	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:17:02.254	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:17:02.259	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:17:02.265	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:17:02.270	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:17:02.274	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:17:02.279	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:17:02.283	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:17:02.290	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:17:02.296	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:17:02.301	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:17:02.305	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:17:02.372	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:17:02.379	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:17:02.385	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:17:02.389	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:17:02.406	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:17:02.414	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:17:02.919	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:17:02.926	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:17:02.931	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:17:02.935	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:17:02.940	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:17:02.947	INFO				Got 20 playlists
+2025-03-22 16:17:02.952	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:17:02.959	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:17:02.966	INFO				Combining playlists...
+2025-03-22 16:17:02.975	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:18:10.652	INFO				---------- START
+2025-03-22 16:18:10.695	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:18:10.702	INFO				Getting all playlists from foobar2000...
+2025-03-22 16:18:10.719	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 16:18:10.728	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 16:18:10.733	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 16:18:10.749	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 16:18:11.825	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 16:18:11.837	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 16:18:11.843	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:18:11.849	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 16:18:11.856	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:18:11.860	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 16:18:11.868	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:18:11.874	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 16:18:11.882	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 16:18:11.888	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 16:18:11.897	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:18:11.902	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 16:18:11.912	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 16:18:11.916	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 16:18:11.924	DEBUG	foobar2000	App	getPlaylists	Tracks read: 126
+2025-03-22 16:18:11.930	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 16:18:11.950	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 16:18:11.957	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 16:18:11.962	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 16:18:11.966	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 16:18:11.971	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:18:11.976	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 16:18:11.980	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:18:11.984	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 16:18:11.992	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 16:18:11.996	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 16:18:12.001	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 16:18:12.007	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 16:18:12.075	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 16:18:12.082	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 16:18:12.088	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 16:18:12.092	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 16:18:12.109	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 16:18:12.116	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 16:18:12.617	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 16:18:12.625	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 16:18:12.631	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 16:18:12.635	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 16:18:12.640	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 16:18:12.647	INFO				Got 20 playlists
+2025-03-22 16:18:12.652	INFO				Filtering for Playlists to actually sync...
+2025-03-22 16:18:12.661	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 16:18:12.666	INFO				Combining playlists...
+2025-03-22 16:18:12.675	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 16:30:43.976	INFO				---------- START
+2025-03-22 16:30:44.019	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:33:12.847	INFO				---------- START
+2025-03-22 16:33:12.892	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:33:58.712	INFO				---------- START
+2025-03-22 16:33:58.757	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:36:54.934	INFO				---------- START
+2025-03-22 16:36:54.978	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:57:27.860	INFO				---------- START
+2025-03-22 16:57:27.902	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:58:40.605	INFO				---------- START
+2025-03-22 16:58:40.648	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 16:59:53.034	INFO				---------- START
+2025-03-22 16:59:53.077	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:01:04.062	INFO				---------- START
+2025-03-22 17:01:04.108	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:04:13.482	INFO				---------- START
+2025-03-22 17:04:13.525	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:04:59.274	INFO				---------- START
+2025-03-22 17:04:59.318	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:05:54.921	INFO				---------- START
+2025-03-22 17:05:54.967	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:06:11.836	INFO				---------- START
+2025-03-22 17:06:11.884	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:07:18.835	INFO				---------- START
+2025-03-22 17:07:18.881	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:11:34.566	INFO				---------- START
+2025-03-22 17:11:34.611	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:26:06.121	INFO				---------- START
+2025-03-22 17:26:06.165	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:27:56.267	INFO				---------- START
+2025-03-22 17:27:56.310	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:29:34.112	INFO				---------- START
+2025-03-22 17:29:34.159	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:46:34.095	INFO				---------- START
+2025-03-22 17:46:34.141	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:50:27.294	INFO				---------- START
+2025-03-22 17:50:27.338	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:53:57.602	INFO				---------- START
+2025-03-22 17:53:57.647	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:54:29.852	INFO				---------- START
+2025-03-22 17:54:29.895	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:55:28.330	INFO				---------- START
+2025-03-22 17:55:28.377	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:57:55.541	INFO				---------- START
+2025-03-22 17:57:55.589	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 17:59:03.465	INFO				---------- START
+2025-03-22 17:59:03.509	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:00:26.427	INFO				---------- START
+2025-03-22 18:00:26.472	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:00:49.923	INFO				---------- START
+2025-03-22 18:00:49.965	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:03:20.336	INFO				---------- START
+2025-03-22 18:03:20.380	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:04:22.425	INFO				---------- START
+2025-03-22 18:04:22.468	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:06:06.809	INFO				---------- START
+2025-03-22 18:06:06.854	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:07:14.316	INFO				---------- START
+2025-03-22 18:07:14.360	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:11:55.554	INFO				---------- START
+2025-03-22 18:11:55.598	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:12:57.364	INFO				---------- START
+2025-03-22 18:12:57.414	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:14:11.339	INFO				---------- START
+2025-03-22 18:14:11.385	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:14:39.999	INFO				---------- START
+2025-03-22 18:14:40.043	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:16:17.482	INFO				---------- START
+2025-03-22 18:16:17.527	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:16:41.978	INFO				---------- START
+2025-03-22 18:16:42.024	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:17:49.595	INFO				---------- START
+2025-03-22 18:17:49.638	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:19:31.398	INFO				---------- START
+2025-03-22 18:19:31.443	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:21:03.999	INFO				---------- START
+2025-03-22 18:21:04.044	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:23:08.060	INFO				---------- START
+2025-03-22 18:23:08.104	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:25:58.476	INFO				---------- START
+2025-03-22 18:25:58.522	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:27:20.512	INFO				---------- START
+2025-03-22 18:27:20.558	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:27:40.575	INFO				---------- START
+2025-03-22 18:27:40.619	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:30:10.178	INFO				---------- START
+2025-03-22 18:30:10.222	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:31:06.770	INFO				---------- START
+2025-03-22 18:31:06.814	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:32:13.955	INFO				---------- START
+2025-03-22 18:32:14.000	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:37:03.208	INFO				---------- START
+2025-03-22 18:37:03.254	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:37:03.273	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:40:12.391	INFO				---------- START
+2025-03-22 18:40:12.439	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:40:24.504	INFO				---------- START
+2025-03-22 18:40:24.554	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:40:24.573	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:42:35.147	INFO				---------- START
+2025-03-22 18:42:35.193	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:42:35.212	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:42:35.296	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "Chiptunes" does not exist, creating it...
+2025-03-22 18:42:35.436	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "4mat" does not exist, creating it...
+2025-03-22 18:42:35.534	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "Decades (2010)" does not exist, creating it...
+2025-03-22 18:42:56.710	INFO				---------- START
+2025-03-22 18:42:56.755	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:42:56.774	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:42:56.876	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "Decades (2010)" does not exist, creating it...
+2025-03-22 18:44:14.977	INFO				---------- START
+2025-03-22 18:44:15.024	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:44:15.044	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:44:15.150	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Copying file "01 - I hear the Sound of Waves.mp3"...
+2025-03-22 18:45:57.731	INFO				---------- START
+2025-03-22 18:45:57.774	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:45:57.781	INFO				Getting all playlists from foobar2000...
+2025-03-22 18:45:57.800	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 18:45:57.810	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 18:45:57.815	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 18:45:57.832	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 18:45:58.748	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 18:45:58.760	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 18:45:58.766	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:45:58.772	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 18:45:58.777	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:45:58.781	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 18:45:58.789	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 18:45:58.794	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 18:45:58.802	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 18:45:58.809	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 18:45:58.817	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 18:45:58.823	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 18:45:58.832	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 18:45:58.837	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 18:45:58.846	DEBUG	foobar2000	App	getPlaylists	Tracks read: 162
+2025-03-22 18:45:58.851	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 18:45:58.873	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 18:45:58.880	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 18:45:58.885	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 18:45:58.891	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 18:45:58.896	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:45:58.900	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 18:45:58.907	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:45:58.912	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 18:45:58.918	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 18:45:58.924	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 18:45:58.928	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:45:58.933	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 18:45:58.988	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 18:45:58.995	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 18:45:59.001	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 18:45:59.007	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 18:45:59.020	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 18:45:59.026	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 18:45:59.462	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 18:45:59.470	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 18:45:59.475	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 18:45:59.479	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 18:45:59.484	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 18:45:59.490	INFO				Got 20 playlists
+2025-03-22 18:45:59.495	INFO				Filtering for Playlists to actually sync...
+2025-03-22 18:45:59.502	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 18:45:59.508	INFO				Combining playlists...
+2025-03-22 18:45:59.518	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 18:45:59.533	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
+2025-03-22 18:45:59.614	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "Chiptunes" does not exist, creating it...
+2025-03-22 18:45:59.752	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "4mat" does not exist, creating it...
+2025-03-22 18:45:59.858	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Directory "Decades (2010)" does not exist, creating it...
+2025-03-22 18:45:59.960	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	Begin copy...
+2025-03-22 18:46:00.195	DEBUG	AndroidDevice	AndroidDevice	CopyItemToPath	End copy...
+2025-03-22 18:46:50.665	INFO				---------- START
+2025-03-22 18:46:50.709	INFO				User: pc-jsc\jan @ pc-jsc
+2025-03-22 18:46:50.717	INFO				Getting all playlists from foobar2000...
+2025-03-22 18:46:50.734	INFO	foobar2000	App	getPlaylists	Refreshing Playlists...
+2025-03-22 18:46:50.743	DEBUG	foobar2000	App	getPlaylists	Got 20 playlists
+2025-03-22 18:46:50.749	DEBUG	foobar2000	App	getPlaylists	Reading Tracks for playlist...
+2025-03-22 18:46:50.764	DEBUG	foobar2000	App	getPlaylists	Playlist: Default Playlist
+2025-03-22 18:46:51.877	DEBUG	foobar2000	App	getPlaylists	Tracks read: 39632
+2025-03-22 18:46:51.889	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Auto-Playlists
+2025-03-22 18:46:51.896	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:46:51.901	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 HOURS
+2025-03-22 18:46:51.907	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:46:51.912	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 1 WEEKS
+2025-03-22 18:46:51.921	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 18:46:51.928	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 2 WEEKS
+2025-03-22 18:46:51.939	DEBUG	foobar2000	App	getPlaylists	Tracks read: 169
+2025-03-22 18:46:51.945	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 4 WEEKS
+2025-03-22 18:46:51.956	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 18:46:51.962	DEBUG	foobar2000	App	getPlaylists	Playlist: %added% LAST 8 WEEKS
+2025-03-22 18:46:51.974	DEBUG	foobar2000	App	getPlaylists	Tracks read: 190
+2025-03-22 18:46:51.980	DEBUG	foobar2000	App	getPlaylists	Playlist: %last_played LAST 1 WEEKS
+2025-03-22 18:46:51.991	DEBUG	foobar2000	App	getPlaylists	Tracks read: 163
+2025-03-22 18:46:51.998	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% IS PRESENT
+2025-03-22 18:46:52.021	DEBUG	foobar2000	App	getPlaylists	Tracks read: 545
+2025-03-22 18:46:52.028	DEBUG	foobar2000	App	getPlaylists	Playlist: %rating% NOT EQUAL $meta(rating)
+2025-03-22 18:46:52.035	DEBUG	foobar2000	App	getPlaylists	Tracks read: 9
+2025-03-22 18:46:52.041	DEBUG	foobar2000	App	getPlaylists	Playlist: %replaygain_track_gain% MISSING
+2025-03-22 18:46:52.046	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:46:52.052	DEBUG	foobar2000	App	getPlaylists	Playlist: _____#tmp
+2025-03-22 18:46:52.057	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:46:52.062	DEBUG	foobar2000	App	getPlaylists	Playlist: import
+2025-03-22 18:46:52.070	DEBUG	foobar2000	App	getPlaylists	Tracks read: 92
+2025-03-22 18:46:52.075	DEBUG	foobar2000	App	getPlaylists	Playlist: _____Pixel 6 Pro
+2025-03-22 18:46:52.080	DEBUG	foobar2000	App	getPlaylists	Tracks read: 0
+2025-03-22 18:46:52.087	DEBUG	foobar2000	App	getPlaylists	Playlist: Chiptunes
+2025-03-22 18:46:52.155	DEBUG	foobar2000	App	getPlaylists	Tracks read: 2302
+2025-03-22 18:46:52.162	DEBUG	foobar2000	App	getPlaylists	Playlist: Interpreten
+2025-03-22 18:46:52.168	DEBUG	foobar2000	App	getPlaylists	Tracks read: 12
+2025-03-22 18:46:52.174	DEBUG	foobar2000	App	getPlaylists	Playlist: Original Soundtracks
+2025-03-22 18:46:52.196	DEBUG	foobar2000	App	getPlaylists	Tracks read: 380
+2025-03-22 18:46:52.203	DEBUG	foobar2000	App	getPlaylists	Playlist: Video Game Remixes
+2025-03-22 18:46:52.725	DEBUG	foobar2000	App	getPlaylists	Tracks read: 18676
+2025-03-22 18:46:52.733	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test1
+2025-03-22 18:46:52.738	DEBUG	foobar2000	App	getPlaylists	Tracks read: 14
+2025-03-22 18:46:52.742	DEBUG	foobar2000	App	getPlaylists	Playlist: PS-Test2
+2025-03-22 18:46:52.747	DEBUG	foobar2000	App	getPlaylists	Tracks read: 15
+2025-03-22 18:46:52.753	INFO				Got 20 playlists
+2025-03-22 18:46:52.758	INFO				Filtering for Playlists to actually sync...
+2025-03-22 18:46:52.765	INFO				Found 2 of 2 Playlists to sync
+2025-03-22 18:46:52.772	INFO				Combining playlists...
+2025-03-22 18:46:52.782	INFO				Got 26 unique Tracks from 2 Playlists with a combined 29 Tracks
+2025-03-22 18:46:52.798	INFO	AndroidDevice	AndroidDevice	CopyItemToPath	Copying "F:\Musik\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3" to "Interner gemeinsamer Speicher\#tmp\Chiptunes\4mat\Decades (2010)\01 - I hear the Sound of Waves.mp3"...)
